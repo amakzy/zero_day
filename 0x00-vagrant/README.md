@@ -1,0 +1,1 @@
+checck command uname
